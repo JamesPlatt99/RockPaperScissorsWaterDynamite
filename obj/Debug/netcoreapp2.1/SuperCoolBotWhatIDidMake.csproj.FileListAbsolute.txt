@@ -1,0 +1,10 @@
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\bin\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.deps.json
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\bin\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.dll
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\bin\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.pdb
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\bin\Debug\netcoreapp2.1\BotInterface.dll
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.AssemblyInfoInputs.cache
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.AssemblyInfo.cs
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.csproj.CopyComplete
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.dll
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.pdb
