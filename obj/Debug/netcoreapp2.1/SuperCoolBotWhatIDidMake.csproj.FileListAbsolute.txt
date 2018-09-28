@@ -8,3 +8,4 @@ C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\
 C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.csproj.CopyComplete
 C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.dll
 C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.pdb
+C:\LocalProjects\Training\SuperCoolBotWhatIDidMake\SuperCoolBotWhatIDidMake\obj\Debug\netcoreapp2.1\SuperCoolBotWhatIDidMake.csprojAssemblyReference.cache

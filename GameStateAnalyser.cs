@@ -89,8 +89,8 @@ namespace SuperCoolBotWhatIDidMake
                 }
             }
             if (rockPlays > paperPlays && rockPlays > scissorPlays) return Move.R;
-            if (paperPlays > rockPlays && paperPlays > scissorPlays) return Move.R;
-            if (scissorPlays > rockPlays && scissorPlays > paperPlays) return Move.R;
+            if (paperPlays > rockPlays && paperPlays > scissorPlays) return Move.P;
+            if (scissorPlays > rockPlays && scissorPlays > paperPlays) return Move.S;
             //Default to water to say there is not a most common play
             return Move.W;
         }
