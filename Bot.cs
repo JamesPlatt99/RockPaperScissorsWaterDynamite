@@ -24,7 +24,7 @@ namespace SuperCoolBotWhatIDidMake
                     return PlayWater();
                 }
             }
-            return PlayRandomStandard();
+            return GameStateAnalyser.GetMostProbableCounter(gamestate);
         }
 
         private Move PlayDynamite()
@@ -38,19 +38,6 @@ namespace SuperCoolBotWhatIDidMake
             return Move.W;
         }
 
-        private Move PlayRandomStandard()
-        {
-            var rand = new Random();
-            switch (rand.Next(0,3))
-            {
-                case 1:
-                    return Move.R;
-                case 2:
-                    return Move.P;
-                default:
-                    return Move.S;
-            }
-        }
 
         private bool IsItWorthPlayingDynamite(Gamestate gamestate)
         {
