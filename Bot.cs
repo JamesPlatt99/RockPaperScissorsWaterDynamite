@@ -8,14 +8,13 @@ namespace SuperCoolBotWhatIDidMake
     {
         const int PlayDynamiteAtRoundValue = 2;
 
-        private readonly GameStateAnalyser GameStateAnalyser = new GameStateAnalyser();
+        private readonly MostProbableCounter GameStateAnalyser = new MostProbableCounter();
 
         public Move MakeMove(Gamestate gamestate)
         {
-            GameStateAnalyser.RoundIndex++;
             if (IsItWorthPlayingDynamite(gamestate))
             {
-                if(GameStateAnalyser.DynamiteAvailable())
+                if(GameStateAnalyser.DynamiteAvailable(gamestate))
                 {
                     return PlayDynamite();
                 }
@@ -24,12 +23,11 @@ namespace SuperCoolBotWhatIDidMake
                     return PlayWater();
                 }
             }
-            return GameStateAnalyser.GetMostProbableCounter(gamestate);
+            return GameStateAnalyser.GetMove(gamestate);
         }
 
         private Move PlayDynamite()
         {
-            GameStateAnalyser.RemainingDynamite--;
             return Move.D;
         }
 
